@@ -20,3 +20,8 @@ A lightweight, responsive, and interactive Tic Tac Toe game built using the clas
 ├── index.html      # The core structure of the game
 ├── style.css       # Styling and layout rules
 └── javascript.js   # Game logic and interactivity
+## 📸 Screenshots
+
+### Desktop View
+![Game Board Layout](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f42384da-a969-44ee-893c-face61f12070" />
+)
